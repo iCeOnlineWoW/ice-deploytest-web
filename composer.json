@@ -1,0 +1,18 @@
+{
+	"name": "iceonline/ice-deploytest-web",
+	"description": "iCe Online: Application deployment test",
+	"keywords": ["ice", "icewow", "iceonline", "deploy", "test"],
+	"type": "project",
+	"license": ["MIT"],
+	"require": {
+		"php": ">= 7.0",
+		"markrogoyski/math-php": "^0.38"
+	},
+	"minimum-stability": "dev",
+	"prefer-stable": true,
+	"config": {
+		"platform": {
+			"php": "7.0"
+		}
+	}
+}
