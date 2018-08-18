@@ -6,7 +6,7 @@
 	"license": ["MIT"],
 	"require": {
 		"php": ">= 7.0",
-		"markrogoyski/math-php": "^0.38"
+		"markrogoyski/math-php": "0.*"
 	},
 	"minimum-stability": "dev",
 	"prefer-stable": true,
